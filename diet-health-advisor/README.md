@@ -105,3 +105,11 @@ graph TD
    - `.adk/`
 
 ⚠️ **NEVER** push `.env` to GitHub. Your API key will be exposed publicly.
+
+## Assets
+
+### Project Banner
+![Cover Banner](assets/cover_page_banner.png)
+
+### Workflow Diagram
+![Workflow Diagram](assets/architecture_diagram.png)
