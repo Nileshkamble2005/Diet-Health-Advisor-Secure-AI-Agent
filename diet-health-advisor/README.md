@@ -106,6 +106,10 @@ graph TD
 
 ⚠️ **NEVER** push `.env` to GitHub. Your API key will be exposed publicly.
 
+## Demo Script
+
+The spoken presentation and narration script for the demo can be found in [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt).
+
 ## Assets
 
 ### Project Banner
